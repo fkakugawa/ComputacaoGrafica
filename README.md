@@ -1,6 +1,6 @@
 # Computação Gráfica e Realidade Virtual - Paulista Noturno
 ### Prof. Fernando Kakugawa
-Email: [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.com.br)
+**Email:** [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.com.br)
 <br><br>
 > <h3><Strong>Aula 01 - Definições da Computação Gráfica    
 <p><a href="https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CGRV_Aula01-RasterizacaoImagens.pdf">Material de aula</a></p>
