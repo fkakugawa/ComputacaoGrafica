@@ -19,3 +19,6 @@
 
 [Código exemplo em JOGL](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/cenaExemplo)
 
+> <h3><Strong>Aula 03 - Transformações Geométricas
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CG_Aula03-Transformacoes%20Geometricas.pdf)
