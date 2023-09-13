@@ -22,3 +22,5 @@
 > <h3><Strong>Aula 03 - Transformações Geométricas
 
 [Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CG_Aula03-Transformacoes%20Geometricas.pdf)
+
+[Exemplo 01](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula03Exemplo01)
