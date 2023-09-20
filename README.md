@@ -26,3 +26,10 @@
 [Exemplo 01](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula03Exemplo01)
 
 [Exemplo 02](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula03Exemplo02)
+
+> <h3><Strong>Aula 04 - Primitivas 3D
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CGRV_Aula04-3D.pdf)
+
+[Exemplo de primitivas 3D](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula04_Exemplos)
+
