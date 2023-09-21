@@ -28,6 +28,8 @@
 
 [Exemplo 02](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula03Exemplo02)
 
+[EXERCÍCIO 02](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula03_Exercicio02)
+
 > <h3><Strong>Aula 04 - Primitivas 3D
 
 [Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula04-3D.pdf)
