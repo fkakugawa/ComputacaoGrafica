@@ -38,4 +38,4 @@
 
 [Descrição da A3 para a turma da QUARTA-FEIRA](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/A3_QUARTA.pdf)
 
-[]()
+[Descrição da A3 para a turma da TERÇA-FEIRA](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/A3_TERCA.pdf)
