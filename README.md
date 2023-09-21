@@ -3,11 +3,12 @@
 **Email:** [fernando.kakugawa@animaeducacao.com.br](fernando.kakugawa@animaeducacao.com.br)
 <br><br>
 > <h3><Strong>Aula 01 - Definições da Computação Gráfica    
-<p><a href="https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CGRV_Aula01-RasterizacaoImagens.pdf">Material de aula</a></p>
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula01-RasterizacaoImagens.pdf)
 
 > <h3><Strong>Aula 02 - Configurando JOGL e Primitivas Gráficas 2D
   
-[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CGRV_Aula02-2D.pdf)
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula02-2D.pdf)
 
 [JOGL project](https://jogamp.org/jogl/www/)
 
@@ -21,7 +22,7 @@
 
 > <h3><Strong>Aula 03 - Transformações Geométricas
 
-[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CG_Aula03-Transformacoes%20Geometricas.pdf)
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula03-Transformacoes%20Geometricas.pdf)
 
 [Exemplo 01](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula03Exemplo01)
 
@@ -29,7 +30,12 @@
 
 > <h3><Strong>Aula 04 - Primitivas 3D
 
-[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/CGRV_Aula04-3D.pdf)
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula04-3D.pdf)
 
 [Exemplos de primitivas 3D](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula04_Exemplos)
 
+> <h3><Strong>Projeto A3
+
+[Descrição da A3 para a turma da QUARTA-FEIRA](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/A3_QUARTA.pdf)
+
+[]()
