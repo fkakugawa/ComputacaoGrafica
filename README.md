@@ -36,6 +36,8 @@
 
 [Exemplos de primitivas 3D](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula04_Exemplos)
 
+[Turma de TERÇA-FEIRA: código desenvolvido na aula do dia 03/10/2023](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula20231003)
+
 > <h3><Strong>Projeto A3
 
 [Descrição da A3 para a turma da QUARTA-FEIRA](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/A3_QUARTA.pdf)
