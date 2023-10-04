@@ -43,3 +43,9 @@
 [Descrição da A3 para a turma da QUARTA-FEIRA](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/A3_QUARTA.pdf)
 
 [Descrição da A3 para a turma da TERÇA-FEIRA](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/A3_TERCA.pdf)
+
+> <h3><Strong>Aula 05 - Iluminação e Tonalização
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CG_Aula05-Iluminacao.pdf)
+
+[Exemplos de iluminação](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula05_Exemple/src)
