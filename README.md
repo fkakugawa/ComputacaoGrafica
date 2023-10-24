@@ -49,3 +49,9 @@
 [Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CG_Aula05-Iluminacao.pdf)
 
 [Exemplos de iluminação](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula05_Exemple/src)
+
+> <h3><Strong>Aula 06 - Textura
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula06_Textura.pdf)
+
+[Exemplos de texturas](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula06-Textura)
