@@ -55,3 +55,7 @@
 [Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula06_Textura.pdf)
 
 [Exemplos de texturas](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/aula06-Textura)
+
+> <h3><Strong>Aula 07 - Processamento de Imagens
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula07_ProcessamentoImagem.pdf)
