@@ -62,3 +62,8 @@
 
 [Código exemplo para leitura e apresentação de arquivo de imagem](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/ExemplosProcessamentoImagem)
 
+> <h3><Strong>Aula 07 - Processamento de Imagens
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula08-Amostragem.pdf)
+
+[Código exemplo com transformação em níveis de cinza, alteração de amostragem e quantização](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/CGRV_Aula08.ipynb)
