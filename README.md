@@ -62,7 +62,7 @@
 
 [Código exemplo para leitura e apresentação de arquivo de imagem](https://github.com/fkakugawa/ComputacaoGrafica/tree/main/ExemplosProcessamentoImagem)
 
-> <h3><Strong>Aula 07 - Processamento de Imagens
+> <h3><Strong>Aula 08 - Amostragem e quantização de imagens
 
 [Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula08-Amostragem.pdf)
 
