@@ -67,3 +67,13 @@
 [Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula08-Amostragem.pdf)
 
 [Código exemplo com transformação em níveis de cinza, alteração de amostragem e quantização](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/CGRV_Aula08.ipynb)
+
+> <h3><Strong>Aula 09 - Processamento de imagem colorida
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula09-ImagemColorida.pdf)
+
+[Código para manipular RGB](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Teste_RGB.ipynb)
+
+[Código para manipular CMYK](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Teste_CMYK.ipynb)
+
+[Código para manipular HSV](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Teste_HSV.ipynb)
