@@ -77,3 +77,19 @@
 [Código para manipular CMYK](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Teste_CMYK.ipynb)
 
 [Código para manipular HSV](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Teste_HSV.ipynb)
+
+> <h3><Strong>Aula 10 - Equalização de histograma
+
+[Material de aula]()
+
+[Código para equalizar imagem em níveis de cinza](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Teste_histograma_cinza.ipynb)
+
+[Código para equalizar imagem colorida](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Teste_histograma_RGB.ipynb)
+
+> <h3><Strong>Aula 11 - Filtros
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/Material%20de%20aulas/CGRV_Aula11-Filtros.pdf)
+
+[Código para negativo de imagem](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Negativo.ipynb)
+
+[Código de filtros de vizinhaça](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Filtro_Vizinhanca.ipynb)
