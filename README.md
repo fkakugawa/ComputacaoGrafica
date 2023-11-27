@@ -93,3 +93,15 @@
 [Código para negativo de imagem](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Negativo.ipynb)
 
 [Código de filtros de vizinhaça](https://github.com/fkakugawa/ComputacaoGrafica/blob/main/ExemplosProcessamentoImagem/Filtro_Vizinhanca.ipynb)
+
+> <h3><Strong>Aula 12 - Morfologia
+
+[Material de aula](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/material%20de%20aulas/CGRV_Aula12-Morfologia.pdf)
+
+[Código de operações morfológica básica](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Exemplo_Operacao_Basica.ipynb)
+
+[Código realizando dilatação e erosão de imagem](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Exemplo_Dilatacao_Erosao.ipynb)
+
+[Código com filtros morfológico](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/blob/main/ExemploProcessamentoImagem/Exemplo_Filtro_Morfologico.ipynb)
+
+[Imagens utilizadas nos códigos](https://github.com/fkakugawa/ComputacaoGraficaRealidadeVirtual/tree/main/ExemploProcessamentoImagem/ImagensMorfologia)
